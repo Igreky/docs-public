@@ -4,12 +4,12 @@
 
     !!!warning  
         **Dokumentacja** opisuje wersje bota **TYLKO** v4.0 . Wpisy oraz poradniki dotyczą tylko nowych komend.
+## Kategorie
 
     !!! note
         **Parametr wymagany**: []
         **Parametr opcjonalny**: <>
 
-## Kategorie
 
 [Konfiguracja kanałów](https://docs.krivebot.xyz/config/)
 
