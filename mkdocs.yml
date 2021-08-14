@@ -10,5 +10,8 @@ nav:
     - Rodziny: families.md
 theme:
   name: 'material'
+    features:
+    - navigation.tabs
+    - navigation.tabs.sticky
 markdown_extensions:
   - admonition
