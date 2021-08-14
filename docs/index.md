@@ -2,7 +2,7 @@
 
 **Witaj w dokumentacji!** Skoro tu jesteś, najprawdopodobniej zainteresowałeś się botem. Dziękujemy!
 
-!!!warning  
+!!! warning  
 **Dokumentacja** opisuje wersje bota **TYLKO** v4.0 . Wpisy oraz poradniki dotyczą tylko nowych komend.
 
 ## Kategorie

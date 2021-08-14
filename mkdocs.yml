@@ -10,3 +10,5 @@ nav:
     - Rodziny: families.md
 theme:
   name: 'material'
+markdown_extensions:
+  - admonition
