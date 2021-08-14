@@ -1,5 +1,3 @@
-# Uwaga!
+# Dokumentacja 
 
-Już niedługo pojawią się tu pierwsze wpisy.
-
- 
+**Witaj w dokumentacji!** Skoro tu jesteś, najprawdopodobniej zainteresowałeś się botem. Dziękujemy!
