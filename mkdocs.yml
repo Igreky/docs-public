@@ -7,4 +7,4 @@ repo_url: 'https://github.com/Korrumz2PL/docs-public'
 nav:
     - Home: index.md
 theme:
-  name: 'mkdocs-material'
+  name: 'material'
