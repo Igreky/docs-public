@@ -9,8 +9,9 @@ nav:
     - Konfiguracja: config.md
     - Rodziny: families.md
 theme:
-  features: 
+  name: material
+  features:
     - navigation.tabs
-    name: "material"
+
 markdown_extensions:
   - admonition
