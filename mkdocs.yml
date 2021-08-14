@@ -5,7 +5,7 @@ docs_dir: docs/
 repo_name: 'Korrumz2PL/docs-public'
 repo_url: 'https://github.com/Korrumz2PL/krivebot'
 nav:
-    - Strona główna: home.md
+    - Strona główna: index.md
     - Konfiguracja: config.md
     - Rodziny: families.md
 theme:
