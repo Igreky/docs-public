@@ -3,7 +3,7 @@ site_description: 'Dokumentacja bota KriveBot'
 site_author: 'Korrumz2PL'
 docs_dir: docs/
 repo_name: 'Korrumz2PL/docs-public'
-repo_url: 'https://github.com/Korrumz2PL/krivebot'
+repo_url: 'https://github.com/Korrumz2PL/docs-public'
 nav:
     - Strona główna: index.md
     - Konfiguracja: config.md

@@ -1,10 +1,9 @@
 # Rodziny
 
-## Tworzenie rodzin
+Funkcja rodzin powstała tylko i wyłącznie dla zabawy. 
+
+## Zakładanie rodzin
+
+<prefix>rodzina zaloz 
+
 ## Usuwanie rodzin
-### Zarobki rodzin
-### Topki rodzin
-### Adopcje
-## Serwerowe rodziny
-### Ekonomia serwerowych rodzin
-### Serwerowa lista rodzin
