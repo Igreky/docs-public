@@ -1,3 +1,8 @@
-# Dokumentacja Krive
+# Jak edytować dokumentację - sposób pierwszy 
 
-Siema
+Aby edytować naciśnij przycisk edycji w stronie dokuentacji
+
+## Sposób drugi
+
+Sekcja "Pull requests" na repozytorium. (przycisk "new pull request")
+Najlepiej edytować pliki w branchu `main`.
