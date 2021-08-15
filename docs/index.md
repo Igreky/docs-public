@@ -1,17 +1,23 @@
 # Dokumentacja 
 
-**Witaj w dokumentacji!** Skoro tu jesteś, najprawdopodobniej zainteresowałeś się botem. Dziękujemy!
+!!! info "Informacje o bocie"
+            ```
 
-!!! warning  
+            discord.js (beta): v13.1.0
+
+            node.js: latest 
+
+            discord: https://discord.gg/MzbNEBSk
+
+            owners: MatStef, Entity
+
+            ```
+
+!!! warning  "Ostrzeżenie!"
     Dokumentacja opisuje wersje bota **TYLKO** v4.0 . Wpisy oraz poradniki dotyczą tylko nowych komend.
 
 ## Kategorie
 
-!!! note
+!!! note "Warto przeczytać"
     Parametr wymagany: []
     Parametr opcjonalny: <>
-
-
-[Konfiguracja kanałów](https://docs.krivebot.xyz/config/)
-
-[Rodziny](https://docs.krivebot.xyz/families/)

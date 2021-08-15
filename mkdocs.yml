@@ -8,6 +8,8 @@ nav:
     - Strona główna: index.md
     - Konfiguracja: config.md
     - Rodziny: families.md
+    - Moderacja: moderation.md
+    - Anty-raid: antyraid.md
 theme:
   name: material
   features:
