@@ -1,7 +1,7 @@
 # Rodziny
 
 !!! note "Informacja"
-    Funkcja rodzin jest jednym z komend 4fun, czyli nie należy wszystkiego w TEJ funkcji brać na poważnie.
+    Funkcja rodzin jest komendą 4fun, czyli nie należy wszystkiego w TEJ funkcji brać na poważnie.
 
 ### Zakładnie rodziny
 
