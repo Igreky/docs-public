@@ -5,4 +5,4 @@ Aby edytować naciśnij przycisk edycji w stronie dokuentacji
 ## Sposób drugi
 
 Sekcja "Pull requests" na repozytorium. (przycisk "new pull request")
-Najlepiej edytować pliki w branchu `main`.
+Najlepiej edytować pliki w branchu `master`.
