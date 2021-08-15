@@ -1,18 +1,15 @@
 # Dokumentacja 
 
 !!! info "Informacje o bocie"
-            ```
+```
+discord.js (beta): v13.1.0
 
-            discord.js (beta): v13.1.0
+node.js: latest 
 
-            node.js: latest 
+discord: https://discord.gg/MzbNEBSk
 
-            discord: https://discord.gg/MzbNEBSk
-
-            owners: MatStef, Entity
-
-            ```
-
+owners: MatStef, Entity
+```
 !!! warning  "Ostrzeżenie!"
     Dokumentacja opisuje wersje bota **TYLKO** v4.0 . Wpisy oraz poradniki dotyczą tylko nowych komend.
 
@@ -20,4 +17,5 @@
 
 !!! note "Warto przeczytać"
     Parametr wymagany: []
+    
     Parametr opcjonalny: <>

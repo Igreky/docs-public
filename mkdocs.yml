@@ -10,6 +10,10 @@ nav:
     - Rodziny: families.md
     - Moderacja: moderation.md
     - Anty-raid: antyraid.md
+    - Slash: slash.md
+    - Profile: profiles.md
+    - Permisje: perms.md
+    - Logi: logs.md
 theme:
   name: material
   features:
