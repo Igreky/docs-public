@@ -19,8 +19,6 @@
     - Konfiguracja kanałów;
     - Konfiguracja ról;
     - Konfiguracja propozycji
-### Ostatnie ogłoszenia
-!!! info "Ostatnie ogłoszenia"
-    "Ping ze względu na niestabilność może ostro skakać a bot może odpowiadać wolno. Monitoruję problem, chwilka i wyjdzie patchfix v2"
-
-    **Opublikował**: entity
+### Karta informacyjna
+!!! danger "UWAGA! WSTRZYMANIE WIĘKSZYCH AKTUALIZACJI!"
+    Ze względu na bardzo duże nowości, większe aktualizacje zostają przerwane do momentu (nie wiadomo). Wersja stabilna dalej ma wsparcie, ale mniej.
