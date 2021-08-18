@@ -1,5 +1,4 @@
 # Ustawienia
-
 !!! info "Tłumacz google"
     **variable** = Zmienna
 
