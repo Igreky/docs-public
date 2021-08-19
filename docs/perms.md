@@ -1,12 +1,31 @@
-!!! example "System permisji"
-    | Nazwa      | Opis                                |
-    | ----------- | ------------------------------------ |
-    | `server/global`       | Występuje na początku oznacznika. Określa czy komenda jest serwerowa/globalna. |
-    | `admin`       | Permisje discorda  "Administrator" |
-    | `KICK_MEMBERS`    | Permisje discorda "Wyrzucanie członków" |
-    | `BAN_MEMBERS`     | Permisje discorda "Banowanie członków" |
-    | `MANAGE_GUILD `   | Permisje discorda "Zarządzanie serwerem" |
-    | `MANAGE_CHANNELS` | Permisje discorda "Zarządzanie kanałami" |
+!!! example "Przykład permisji"
+    `global.send_messages.ping`
 
-!!! example "Przykładowa komenda"
-    
+#### global
+Oznacznik, który mówi czy komenda jest globalna/serwerowa.
+#### send_messages
+Permisje discorda (pełna lista)
+
+!!! info "Lista" 
+    | Zmienna      | Opis komendy |
+    | -------      | --------------|
+    | CREATE_INSTANT_INVITE | Tworzenie stałego zaproszenia |
+    | KICK_MEMBERS | Wyrzucanie członków |
+    | BAN_MEMBERS | Banowanie członków |
+    | ADMINISTRATOR | Administrator |
+    | MANAGE_CHANNELS | Zarządzanie kanałami |
+    | MANAGE_GUILD  | Zarządzanie serwerem |
+    | ADD_REACTIONS| Dodawanie reakcji |
+    | VIEW_AUDIT_LOG | Podgląd dziennika zdarzeń |
+    | VIEW_CHANNEL | Podgląd kanałów |
+    | SEND_MESSAGES | Wysyłanie wiadomości |
+    | SEND_TTS_MESSAGES | Wysyłanie wiadomości TTS |
+    | MANAGE_MESSAGES | Zarządzanie wiadomościami |
+    | EMBED_LINKS | Permisje do embedów |
+    | READ_MESSAGE_HISTORY | Czytanie historii wiadomości |
+    | MENTION_EVERYONE | Oznaczanie wszystkich |
+    | USE_EXTERNAL_EMOJIS | Używanie zewnętrznych emoji|
+    | MANAGE_ROLES | Zarządzanie rolami |
+    | MANAGE_EMOJIS_AND_STICKERS | Zarządzanie emoji i naklejkami|
+#### ping
+Nazwa komendy
