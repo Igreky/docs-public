@@ -1,3 +1,5 @@
+!!! danger "Brak zgodności"
+    Funkcja nie jest zgodna z aktualną wersją bota: **v4.1**
 # Jak to działa?
 
 Nasz anty raid cechuje się:

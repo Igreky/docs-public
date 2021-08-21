@@ -1,3 +1,6 @@
+!!! danger "Brak zgodności"
+    Funkcja nie jest zgodna z aktualną wersją bota: **v4.1** (w trakcie przemyśleń przed wypuszczeniem)
+    
 # Rodziny
 
 !!! note "Informacja"

@@ -1,6 +1,6 @@
 # Komendy 4Fun
 
-!!! success "Informacja"
+!!! success "Zgodność całkowita"
     Wszystkie komendy z tej listy działają w aktualnej wersji bota
     
 !!! example "Lista komend" 

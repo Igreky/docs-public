@@ -1,5 +1,7 @@
 # Aktywowanie slash-komend na serwerze
-
+!!! danger "Brak zgodności"
+    Funkcja nie jest zgodna z aktualną wersją bota: **v4.1**
+    
 !!! example "Przykłady"
 
 ```

@@ -1,3 +1,6 @@
+!!! success "Zgodność całkowita"
+    Funkcja jest zgodna i całkowicie dostępna.
+    
 # Profile
 
 Ustaw swój profil dzięki którym ułatwisz użytkownikom zidentyfikowanie cię!

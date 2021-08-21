@@ -1,3 +1,6 @@
+!!! success "Zgodność całkowita"
+    Funkcja jest zgodna i całkowicie dostępna.
+    
 !!! example "Przykład permisji"
     `global.send_messages.ping`
 

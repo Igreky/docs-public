@@ -7,12 +7,11 @@
     W nowej wersji nie trzeba będzie aktywować funkcji! Jeśli pójdzie po naszej myśli, nie trzeba będzie ustawiać kanałów z powrotem
 
 !!! info "Niedostępne funkcje w aktualnej wersji bota"
-    - Konfiguracja sugestii;
-    - Konfiguracja kanałów;
     - Konfiguracja ról;
     - Konfiguracja propozycji
-    
-    Ogólnie, wszelkie konfiguracje zostały wyłączone. Można korzystać tylko z komend 4fun (na razie). Nie stanowi to żadnego niebezpieczeństwa dla waszych serwerów
+    - Więcej narzędzi
+
+    Ogólnie, wszelkie konfiguracje zostały wyłączone. Można korzystać tylko z komend 4fun i niektórych narzędzi (ogłoszenia, głosowania itd). Wiele osób może pomyśleć, że tak naprawdę nie ma więcej rzeczy niż było wcześniej i to prawda. 22.08.2021 w godzinach popołudniowych prawie wszystko będzie dostępne.
 
 !!! note "Linki"
 
@@ -22,9 +21,5 @@
 
     **Wsparcie:** [Serwer Discord](https://discord.gg/gTWWxcj768)
 
-![Placeholder](https://cdn.discordapp.com/attachments/839935694650212393/876896713934254090/unknown.png)
 !!! warning  "Ostrzeżenie!"
-    Dokumentacja opisuje wersje bota **TYLKO** v4.0 . Wpisy oraz poradniki dotyczą tylko nowych komend.
-### Karta informacyjna
-!!! danger "UWAGA! WSTRZYMANIE WIĘKSZYCH AKTUALIZACJI!"
-    Ze względu na bardzo duże nowości, większe aktualizacje zostają przerwane do momentu (nie wiadomo). Wersja stabilna dalej ma wsparcie, ale mniej.
+    Dokumentacja opisuje wersje bota **TYLKO** v4.1 . Wpisy oraz poradniki dotyczą tylko nowych komend.
