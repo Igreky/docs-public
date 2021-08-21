@@ -29,3 +29,17 @@ Permisje discorda (pełna lista)
     | MANAGE_EMOJIS_AND_STICKERS | Zarządzanie emoji i naklejkami|
 #### ping
 Nazwa komendy
+
+# Globalne Wymagane Permisje
+## Globalne wymagane permisje do KAŻDEJ komendy.
+
+!!! danger "Lista"    
+    `VIEW_CHANNELS`
+
+    `SEND_MESSAGES`
+
+    `EMBED_LINKS`
+
+    `READ_MESSAGE_HISTORY`
+
+    
