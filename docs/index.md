@@ -12,7 +12,7 @@
     - Konfiguracja ról;
     - Konfiguracja propozycji
     
-    Ogólnie, wszelkie konfiguracje zostały wyłączone. Można korzystać tylko z komend 4fun (na razie). Nie stanowi to żadnego bezpieczeństwa dla waszych serwerów
+    Ogólnie, wszelkie konfiguracje zostały wyłączone. Można korzystać tylko z komend 4fun (na razie). Nie stanowi to żadnego niebezpieczeństwa dla waszych serwerów
 
 !!! note "Linki"
 
