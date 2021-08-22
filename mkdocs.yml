@@ -10,12 +10,12 @@ nav:
     - Rodziny: families.md
     - Moderacja: moderation.md
     - Anty-raid: antyraid.md
-    - Slash: slash.md
     - Profile: profiles.md
     - Permisje: perms.md
     - Logi: logs.md
     - Zabawa: fun.md
     - Strona: site.md
+    - Lockdown: lockdown.md
 theme:
   name: material
   features:

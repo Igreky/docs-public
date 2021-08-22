@@ -1,5 +1,6 @@
-!!! warning "Brak zgodności"
-    Funkcja nie jest zgodna z aktualną wersją bota: **v4.1**. Ale tymczasowo, wróci już 22.08.2021 o godzinach popołudniowych
+!!! success "Zgodność"
+    Funkcja jest zgodna z najnowszą wersją bota
+
 # Automoderacja
 
 !!! tip 
@@ -21,6 +22,8 @@
      <p> </p>
     `;ban @Korrumz2 duch`
 
+!!! warning "Brak zgodności"
+    Komendy NIŻEJ nie są zgodnę z najnowszą wersją bota.
 ### Odbanowywanie
 
 !!! example "Przykłady"
@@ -38,7 +41,3 @@
     `;unwarn [userid, mention]`
     <p> </p>
     `;warnlist [userid, mention]`
-# Automoderacja
-
-!!! danger "Soon!"
-    Funkcja automoderacji oraz ostrzeżeń jest niedostępna w bocie.  

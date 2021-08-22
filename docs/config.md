@@ -1,7 +1,7 @@
-!!! warning "Brak zgodności"
-    Funkcja nie jest zgodna z aktualną wersją bota: **v4.1**. Ale tymczasowo, wróci już 22.08.2021 o godzinach popołudniowych
+!!! success "Zgodność"
+       Funkcja jest zgodna z najnowszą wersją bota
 # Ustawienia
-!!! info "Tłumacz google"
+!!! tip "Tłumacze"
     **variable** = Zmienna
 
     **value** = Wartość
