@@ -1,2 +1,7 @@
 /site
 .DS_Store
+/.idea/.gitignore
+/.idea/discord.xml
+/.idea/docs-public.iml
+/.idea/modules.xml
+/.idea/vcs.xml
