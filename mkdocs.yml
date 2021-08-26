@@ -16,6 +16,8 @@ nav:
     - Zabawa: fun.md
     - Strona: site.md
     - Lockdown: lockdown.md
+    - Tickety: tickets.md 
+    - Changelog: changelog.md
 theme:
   name: material
   features:
