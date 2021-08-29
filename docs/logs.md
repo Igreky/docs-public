@@ -6,17 +6,52 @@
 !!! tip "Użycie"
     `logs [Zmienna] [Nowa wartość]`
 
-## Co loguje?
-
+## Zmienne
+### channelCreate
 !!! example "Przykłady"
-    | channelCreate (logi kanałów)        | emojiCreate (logi emoji)       | guildBanAdd (logi banów) |
-    | ----------------------------------- | ------------------------------ | ------------------------ |
-    | Nazwa kanału                        | Nazwa emoji                    | Nazwa użytkownika        |
-    | ID kanału                           | Informacja, czy jest animowana | Tag użytkownika          |
-    | Pozycja kanału                      | URL emoji                      | ID                       |
-    | Bitrate kanału (jeśli jest głosowy) |
-    
-    To są tylko przykłady. Jest więcej logów. Całość można przeanalizować [tutaj](https://github.com/Korrumz2PL/krivebot/tree/v4.0/events)
+    `logs channelCreate #tworzenie-kanału`
 
-!!! danger "Uwaga"
-    Już wkrótce!
+!!! warning "Akcja"
+    - Tworzenie kanału
+
+### channelDelete
+!!! example "Przykłady"
+    `logs channelDelete #usuwanie-kanału`
+
+!!! warning "Akcja"
+    - Usuwanie kanału
+  
+### channelUpdate
+!!! example "Przykłady"
+    `logs channelUpdate #aktualizowanie-kanału`
+
+!!! warning "Akcja"
+    - Aktualizowanie kanału
+
+### emojiCreate
+!!! example "Przykłady"
+    `logs emojiCreate #tworzenie-emotki`
+
+!!! warning "Akcja"
+    - Dodawanie emotki
+
+### emojiUpdate
+!!! example "Przykłady"
+    `logs emojiUpdate #aktualizowanie-emotki`
+
+!!! warning "Akcja"
+    - Aktualizowanie emotki
+
+### emojiDelete
+!!! example "Przykłady"
+    `logs emojiDelete #usuwanie-emotki`
+
+!!! warning "Akcja"
+    - Usuwanie emotki
+
+### messageDelete
+!!! example "Przykłady"
+    `logs messageDelete #usuwanie-wiadomości`
+
+!!! warning "Akcja"
+    - Usuwanie wiadomości

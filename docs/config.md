@@ -35,3 +35,27 @@
 
 !!! usage "Użycie"
        Na ustawionym kanale użytkownicy nie będą mogli wysyłać wiadomości, jeżeli nie ma żadnych plików. 
+
+### Konfigurowanie kanału podań
+
+!!! example "Przykład"
+       `set applicationChannel #podania`
+
+!!! usage "Użycie"
+       Na ustawionym kanale użytkownicy mogą wysyłać podania
+
+### Konfigurowanie roli wyciszonego
+
+!!! example "Przykład"
+       `set mutedRole @Rola`
+
+!!! usage "Użycie"
+       Ustawiona rola nie może pisać, jeżeli jest wyciszona
+
+### Konfigurowanie roli moderatora
+
+!!! example "Przykład"
+       `set moderatorRole @Rola`
+
+!!! usage "Użycie"
+       Ustawiona rola może pisać na otwartych ticketach
