@@ -19,6 +19,15 @@ nav:
     - Tickety: tickets.md 
     - Changelog: changelog.md
 theme:
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Tryb ciemny
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Tryb jasny
   name: material
   features:
     - navigation.tabs
