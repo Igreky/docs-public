@@ -29,23 +29,23 @@
 !!! warning "Uwaga"
     Do ustawień rodziny powstała oddzielna komenda - ```familyset```
 !!! example "Przykłady" 
-    | Zmienna      | Opis                                |
-    | ----------- | ------------------------------------ |
-    | `name`       | Nazwa rodziny |
-    | `desc`       | Opis rodziny |
+    | Zmienna | Opis          |
+    | ------- | ------------- |
+    | `name`  | Nazwa rodziny |
+    | `desc`  | Opis rodziny  |
 
 ### Dodawanie członków (pseudoadopcja)
 
 !!! example "Przykłady"
     ```rodzina [zmienna] add [mention]```
     
-    | Zmienna      | Opis |
-    | ----------- | ----- |
-    | `brother`| Brat |
-    | `sister` | Siostra |
-    | `cousin` | Kuzyn | 
-    | `grandmother`| Babcia |
-    | `grandpa`| Dziadek |
-    | `aunt` | Ciocia | 
-    | `stepsister` | Siostra przyrodnia | 
-    | `stepbrother` | Brat przyrodni | 
+    | Zmienna       | Opis               |
+    | ------------- | ------------------ |
+    | `brother`     | Brat               |
+    | `sister`      | Siostra            |
+    | `cousin`      | Kuzyn              |
+    | `grandmother` | Babcia             |
+    | `grandpa`     | Dziadek            |
+    | `aunt`        | Ciocia             |
+    | `stepsister`  | Siostra przyrodnia |
+    | `stepbrother` | Brat przyrodni     |

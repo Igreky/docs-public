@@ -1,31 +1,61 @@
-!!! success "Zgodność"
-       Funkcja jest zgodna z najnowszą wersją bota
-# Ustawienia
-!!! tip "Tłumacze"
-    **variable** = Zmienna
+# Konfiguracja kanałów
 
-    **value** = Wartość
+!!! tip "Protip"
+       Nie musisz wpisywać ID kanału. Możesz wpisać samą nazwę bądź jej **część**!
 
-## Konfiguracja kanałów
+### Konfigurowanie kanału ogłoszeń
 
-!!! example "Przykłady"
+!!! example "Przykład"
 
-       - ;set [variable] [value]
+       `set broadcastChannel #ogłoszenia`
 
-       - ;set broadcastChannel #ogłoszenia
+!!! usage "Użycie"
+       Za pomocą komendy ;broadcast [treść] bot wyśle twój content wiadomości jako ogłoszenie na ustawiony kanał.
 
-## Konfiguracja ról
+### Konfigurowanie kanału skarg
 
-!!! example "Przykłady"
+!!! example "Przykład"
+       `set complaintChannel #skargi`
 
-       - ;set [variable] [value]
-       - ;set mutedRole @Wyciszony 
+!!! usage "Użycie"
+       Za pomocą komendy ;complaint [użytkownik] [powód] użytkownicy będą mogli zgłaszać użytkowników na twoim serwerze na specjalny kanał. Może być prywatny albo publiczny!
 
-## Konfiguracja logów
+### Konfigurowanie kanału głosowań
 
-!!! example "Przykłady"
-       - ;logs [variable] [value]
-       - ;logs inviteCreate #kanał
+!!! example "Przykład"
+       `set voteChannel #głosowania`
 
-!!! tip 
-    Zamiast mentionować można zawsze wpisać ID. Uwaga! To nie może być kategoria albo kanał głosowy
+!!! usage "Użycie"
+       Za pomocą komendy ;vote [Treść] będziesz mógł organizować głosowania na ustawionym kanale
+
+### Konfigurowanie kanału obrazkowego
+
+!!! example "Przykład"
+       `set imageChannel #obrazki`
+
+!!! usage "Użycie"
+       Na ustawionym kanale użytkownicy nie będą mogli wysyłać wiadomości, jeżeli nie ma żadnych plików. 
+
+### Konfigurowanie kanału podań
+
+!!! example "Przykład"
+       `set applicationChannel #podania`
+
+!!! usage "Użycie"
+       Na ustawionym kanale użytkownicy mogą wysyłać podania
+
+### Konfigurowanie roli wyciszonego
+
+!!! example "Przykład"
+       `set mutedRole @Rola`
+
+!!! usage "Użycie"
+       Ustawiona rola nie może pisać, jeżeli jest wyciszona
+
+### Konfigurowanie roli moderatora
+
+!!! example "Przykład"
+       `set moderatorRole @Rola`
+
+!!! usage "Użycie"
+       Ustawiona rola może pisać na otwartych ticketach
