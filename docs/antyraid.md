@@ -1,29 +1,52 @@
-!!! danger "Brak zgodności"
-    Funkcja nie jest zgodna z aktualną wersją bota: **v4.1**
-# Jak to działa?
+!!! danger "Uwaga"
+    Antyraid będzie dostępny dopiero w **Krive v4.3!**
+# Nowy antyraid
 
-Nasz anty raid cechuje się:
+!!! question "Na czym on polega?"
+    Dodaliśmy do bota możliwość włączenia oddzielnie funkcje (Antyalt, Antyphishing etc). Wkrótce pojawią się funkcje które pozwolą użytkownikom na własne blacklistowanie wordów.
 
-- zaawansowany antyalt
-- antyspam
-- antybot
-- Pełnoprawną konfiguralnością. Wszystko po twojemu!
-## Funkcje
+## Dostępne funkcje
 
-- Karanie użytkownika który posiada konto mniej niż 3 dni [Default]
-- Blokowanie botów
-- Karanie użytkownika jak ktoś jest na np tylko 1 serwerze
+## Anty-Alt
+!!! example "Anty-Alt"
+    Nasz anty-alt skutecznie się pozbędzie multikont użytkowników z twojego serwera.
+### Anty-Alt - Konfiguracja
+    Włącz anty-alt: ;anty-alt enable
 
-## Konfiguracja
+    Wyłącz anty-alt: ;anty-alt disable
+##### Anty-Alt - Zasady działania
+- Banowanie użytkowników, którzy mają konto poniżej 3 dni
+- Banowanie użytkowników jeżeli ktoś nie ma serwerów ORAZ ma konto poniżej 3 dni
+#### Anty-Alt - Przyznawane kary
+    - Zbanowanie użytkownika
+## Antysus
+!!! example "Jak to działa"
+    Blokuj słowa: 
+    - sus
+    - susser
+    - itd
+### Anty-Sus - Konfiguracja
+    Włącz anty-sus: ;anty-sus enable
 
-```
-antyraid conf antialt usr [userDays]
+    Wyłącz anty-sus: ;anty-sus disable
+### Anty-Sus - Przyznawane kary
+    - Wyrzucenie użytkownika
+## AntyPhishing
+!!! example "Jak to działa"
+    Blokuj domeny .ru na serwerze
 
-antyraid conf antialt ser [servers]
+### Anty-Phishing - Konfiguracja
+    Włącz anty-phishing: ;anty-phishing enable
 
-antyraid conf antybot [messagess per second]
+    Wyłącz anty-phishing: ;anty-phishing disable
+### Anty-Phishing - Przyznawane kary
+    - Zbanowanie użytkownika
+## AntySpam
+!!! example "Jak to działa"
+    Sprawdza ile wiadomości użytkownik wysyła w ciągu ileś sek, a następnie przyznaje kare.
+### Anty-Spam - Konfiguracja
+    Włącz anty-spam: ;anty-spam enable
 
-```
-
-!!! danger "Soon!"
-    Funkcja nie została skończona. Chcemy to zrobić porządnie więc możliwe opóźnienie
+    Wyłącz anty-spam: ;anty-spam disable
+### Anty-Spam - Przyznawane kary 
+    - Wyrzucenie użytkownika
