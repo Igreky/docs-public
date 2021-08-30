@@ -20,6 +20,8 @@ theme:
   name: material
   features:
     - navigation.tabs
+  logo: assets/logo.png
+  favicon: assets/logo.png
 
 markdown_extensions:
   - admonition
