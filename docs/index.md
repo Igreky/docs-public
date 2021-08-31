@@ -1,15 +1,20 @@
-# Strona główna
+# Czym jest dokumentacja?
 
-!!! danger "Informacja dotycząca wersji"
-    Dokumentacja opisuje tylko wersję bota **v4.1**. Są tu najnowsze treści i wpisy na temat komend.
+Dokumentacja to po prostu swego rodzaju poradnik do bota,  
+znajdziesz tu wszystkie wskazówki dotyczące używania lub konfiguracji Krive.
+
+Na tej stronie znalazł się spis wszystkich komend i sposobu ustawień. Liczymy dzięki temu, że korzystanie z naszego bota stanie się bezproblemowe i jak najbardziej przyjemne.  
+Poruszaj się po poszczególnych kategoriach w menu u góry strony, aby znaleźć interesujące cię zagadnienie.
+
+W razie, gdybyś nadal miał wątpliwości dotyczące Krive lub po prostu chcesz porozmawiać z twórcami bota, zapraszamy na [nasz serwer discord](https://discord.gg/gTWWxcj768).
 
 
-!!! note "Linki"
+!!! note "Linki warte zapoznania"
 
-    **Strona główna:** [Strona główna](https://krivebot.xyz)
+    - [Strona główna Krive](https://krivebot.xyz)
 
-    **Strona statusu:** [Strona statusu](https://status.krivebot.xyz)
+    - [Status bota i innych serwisów](https://status.krivebot.xyz)
 
-    **Wsparcie:** [Serwer Discord](https://discord.gg/gTWWxcj768)
+    - [Serwer Discord, (wsparcie)](https://discord.gg/gTWWxcj768)
 
  
