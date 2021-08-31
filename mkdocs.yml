@@ -19,6 +19,7 @@ nav:
     - Tickety: tickets.md 
     - Changelog: changelog.md
 theme:
+  language: pl
   palette:
     - scheme: default
       toggle:
@@ -30,7 +31,13 @@ theme:
         name: Tryb jasny
   name: material
   features:
+    - navigation
     - navigation.tabs
+    - navigation.top
+    - toc.integrate
+    - header.autohide
+    - navigation.expand
+    - navigation.indexes
   logo: assets/logo.png
   favicon: assets/logo.png
 

@@ -4,6 +4,8 @@
 !!! example "Przykład permisji"
     `global.send_messages.ping`
 
+!!! danger "UWAGA!"
+    Bot nie musi mieć permisji administratora aby działać w 100%. Aby działał w 100% wystarczy zapoznać się z poniższą listą permisji
 #### global
 Oznacznik, który mówi czy komenda jest globalna/serwerowa.
 #### send_messages
@@ -44,5 +46,9 @@ Nazwa komendy
     `EMBED_LINKS`
 
     `READ_MESSAGE_HISTORY`
+
+    `MANAGE_CHANNELS`
+
+    `MANAGE_ROLES`
 
     
